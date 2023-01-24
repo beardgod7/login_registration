@@ -11,5 +11,6 @@ used json web token for authentication,
 used body parser as middleware to accept json input,
 used urlencoded to accept input as string or arrray from form,
 used dotenv too hid sensitive info,
-used validator to validate some inputs.
+used validator to validate some inputs,
+used bycrpt to hash password.
 
